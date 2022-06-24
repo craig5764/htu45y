@@ -1,2 +1,2 @@
-TrialLimit@@@2022-06-25@@@
+TrialLimit@@@2022-07-10@@@
 Notice@@@탈모빔@@@
